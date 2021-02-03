@@ -25,7 +25,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Throughout this project I did not run into many problems. One problem that had me stuck for a while is that my app kept crashing. I founded out that a declared my container as a RecyclerView and not a RelevantLayout. It took me a while to realize this mistake, but the common problems tab helped me through it.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
